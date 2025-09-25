@@ -1,0 +1,15 @@
+﻿  Window.cpp
+C:\ProyecosCG\Practicas\Practica05\Window.h(13,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\ProyecosCG\Practicas\Practica05\Window.h(14,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\ProyecosCG\Practicas\Practica05\Window.cpp(231,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\ProyecosCG\Practicas\Practica05\Window.cpp(232,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\ProyecosCG\Practicas\Practica05\Window.cpp(236,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\ProyecosCG\Practicas\Practica05\Window.cpp(237,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\ProyecosCG\Practicas\Practica05\Window.cpp(239,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\ProyecosCG\Practicas\Practica05\Window.cpp(240,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\ProyecosCG\Practicas\Practica05\Window.cpp(140,1): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  Practica05.vcxproj -> C:\ProyecosCG\Practicas\Practica05\Debug\Practica05.exe
